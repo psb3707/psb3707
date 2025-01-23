@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!--타이틀 부분-->
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome%To%SeungBeom%GitHub&fontAlign=30&fontSize=30&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20To-nl-SeungBeom%20GitHub&fontAlign=30&fontSize=30&theme=radical)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
