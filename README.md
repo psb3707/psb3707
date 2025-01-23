@@ -71,7 +71,7 @@
   </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psb3707)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psb3707&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **psb3707/psb3707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
