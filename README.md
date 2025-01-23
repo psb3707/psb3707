@@ -2,7 +2,9 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20To-nl-SeungBeom%20GitHub&fontAlign=30&fontSize=30&theme=radical)
 
 ## ABOUT ME 🧑🏻‍💻
-
+- 단순 기능 구현을 넘어 효율적인 개발 문화와 사용자 경험 향상을 추구하는 백엔드 개발자입니다.
+- 직면한 문제를 해결할 땐 먼저 스스로 깊이 고민해보고 어려운 부분을 팀원들과 의논하며 최선의 해결책을 찾기 위해 노력합니다.
+- 기능을 구현하는 것에 매몰되지 않고 현재보다 더 나은 방법은 없는지 끊임없이 생각해보고 그러한 고민들을 팀원들과 공유하는 것을 즐깁니다.   또한 이를 통해 적용된 해결책이 궁극적으로 고객의 니즈를 만족시킬 것이라고 믿습니다.
 
 <!--내용 부분-->
 ## ✨ Tech Stack ✨
